@@ -1,0 +1,11 @@
+This is the first project
+1.Gather the requirements
+2.planning
+3.Designing the code
+4.Implementation
+5.Testing
+6.Deployment
+7.Maintainance
+
+grb
+sggghrh
